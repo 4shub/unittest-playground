@@ -1,6 +1,6 @@
 import unittest
 import mock
-from hello import *
+from hello import open_file
 from io import StringIO
 
 
